@@ -1,0 +1,8 @@
+name: dsci522
+channels:
+  - defaults
+  - conda-forge
+dependencies:
+  - python=3
+  - pandas
+prefix: /Users/jenniferezinneonyebuchi/miniforge3/envs/dsci522
